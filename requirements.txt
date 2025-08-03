@@ -4,4 +4,7 @@ numpy
 gspread
 oauth2client
 altair
-feedparser 
+feedparser
+beautifulsoup4
+
+
