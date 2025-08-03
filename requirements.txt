@@ -6,5 +6,7 @@ oauth2client
 altair
 feedparser
 beautifulsoup4
+google-generativeai
+
 
 
